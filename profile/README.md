@@ -48,7 +48,7 @@ Welcome to **Kubernetes Austin**, a Cloud Native Computing Foundation (CNCF) sup
 
 ### Step 2: Express Interest
 - Open an issue on our [GitHub repository](https://github.com/K8sAustin/k8sAustin) expressing your interest.
-- Alternatively, email us at **volunteer@k8sAustin.com** with a short introduction and the area you’d like to contribute to.
+- Alternatively, email us at **organizers@k8sAustin.com** with a short introduction and the area you’d like to contribute to.
 
 ### Step 3: Attend an Orientation
 - Attend our next meetup and participate in the volunteer orientation session. Dates and times are shared on our website and Slack.
